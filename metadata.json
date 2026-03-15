@@ -1,0 +1,7 @@
+{
+  "name": "大学城美食地图",
+  "description": "专为高校学生设计的本地化美食指南，提供地图导览、步行优先排序、学生价标识及同校评价。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
